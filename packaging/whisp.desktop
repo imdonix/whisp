@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Whisp
+Comment=Push-to-talk voice typing (hold F9)
+Exec=whisp
+Icon=audio-input-microphone
+Terminal=false
+Categories=Utility;Accessibility;
+X-GNOME-Autostart-enabled=true
